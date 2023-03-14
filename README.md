@@ -8,7 +8,4 @@ Pima Indians Diabetes Database(https://www.kaggle.com/datasets/uciml/pima-indian
 
 The Pima Indians diabetes dataset consists of diagnostic measurements collected from a
 sample of female Pima Indians, along with a label indicating whether the patient developed
-diabetes within five years of the initial measurement. In the next section, we'll perform
-exploratory data analysis on the Pima Indians diabetes dataset to uncover important
-insights about the data.
-
+diabetes within five years of the initial measurement.
